@@ -1,0 +1,1103 @@
+дом;dom;Haus
+мама;mama;Mama
+собака;sobaka;Hund
+кошка;koschka;Katze
+город;gorod;Stadt
+дерево;derewo;Baum
+река;reka;Fluss
+стол;stol;Tisch
+книга;kniga;Buch
+школа;schkola;Schule
+друг;drug;Freund
+яблоко;jabloko;Apfel
+семья;sem'ja;Familie
+время;wremja;Zeit
+рука;ruka;Hand
+голова;golowa;Kopf
+письмо;pismjo;Brief
+утро;utro;Morgen
+вечер;wetscher;Abend
+ночь;notch;Nacht
+море;more;Meer
+дверь;dwer;Tür
+стена;stena;Wand
+окно;okno;Fenster
+здание;sdanje;Gebäude
+улица;uliza;Straße
+зеркало;zjerkalo;Spiegel
+кровать;krowat;Bett
+магазин;magazin;Geschäft
+комната;komnata;Zimmer
+парк;park;Park
+поезд;pojesd;Zug
+машина;maschina;Auto
+дождь;doschd;Regen
+солнце;solnze;Sonne
+пальто;palto;Mantel
+ботинки;botinki;Schuhe
+шапка;schapka;Mütze
+ребёнок;rebjonok;Kind
+птица;ptiza;Vogel
+рыба;ryba;Fisch
+молоко;moloko;Milch
+хлеб;chleb;Brot
+сыр;syr;Käse
+вода;woda;Wasser
+чай;tschaj;Tee
+сок;sok;Saft
+еда;jeda;Essen
+работа;rabota;Arbeit
+отдых;otdych;Erholung
+праздник;prazdnik;Feiertag
+песня;pesnja;Lied
+музыка;muzyka;Musik
+танец;tanez;Tanz
+игра;igra;Spiel
+спорт;sport;Sport
+фильм;film;Film
+квартира;kwartira;Wohnung
+парк;park;Park
+театр;teatr;Theater
+музей;muzej;Museum
+класс;klass;Klasse
+урок;urok;Unterricht
+письмо;pismjo;Brief
+компьютер;kompjuter;Computer
+телефон;telefon;Telefon
+газета;gazjeta;Zeitung
+журнал;zhurnal;Zeitschrift
+книга;kniga;Buch
+тетрадь;tetrad;Heft
+ручка;rutschka;Stift
+карандаш;karandasch;Bleistift
+линейка;linejka;Lineal
+картина;kartina;Bild
+карта;karta;Karte
+стул;stul;Stuhl
+шкаф;schkaf;Schrank
+часы;tschasy;Uhr
+подарок;podarok;Geschenk
+игрушка;igruschka;Spielzeug
+деньги;dengi;Geld
+кошелёк;koscheljok;Geldbörse
+покупка;pokupka;Einkauf
+рынок;rynok;Markt
+магазин;magazin;Geschäft
+товар;towar;Ware
+продавец;prodawjez;Verkäufer
+покупатель;pokupatel;Käufer
+касса;kassa;Kasse
+сдача;sdatscha;Wechselgeld
+плата;plata;Bezahlung
+цена;zjena;Preis
+товар;towar;Ware
+человек;tschelowjek;Mensch
+женщина;zchenschtschina;Frau
+мужчина;muzhschtschina;Mann
+девочка;djevochka;Mädchen
+мальчик;maltschik;Junge
+гость;gost;Gast
+хозяин;chosjain;Gastgeber
+сосед;sosed;Nachbar
+врач;wrach;Arzt
+учитель;utschitel;Lehrer
+инженер;inscheneer;Ingenieur
+работник;rabotnik;Arbeiter
+учёный;utschony;Wissenschaftler
+писатель;pisatel;Schriftsteller
+художник;chudoschnik;Künstler
+актёр;akter;Schauspieler
+певец;pewez;Sänger
+спортсмен;sportsmen;Sportler
+ученик;utschenik;Schüler
+студент;student;Student
+директор;direktor;Direktor
+менеджер;menedscher;Manager
+сотрудник;sotrudnik;Mitarbeiter
+адвокат;adwokat;Anwalt
+судья;sjudja;Richter
+полицейский;polizejski;Polizist
+солдат;soldat;Soldat
+офицер;offizer;Offizier
+инструктор;instruktor;Trainer
+водитель;woditel;Fahrer
+пилот;pilot;Pilot
+механик;mecharnik;Mechaniker
+капитан;kapitan;Kapitän
+журналист;zhurnalist;Journalist
+фотограф;fotograf;Fotograf
+переводчик;perewodtschik;Übersetzer
+программист;programmist;Programmierer
+эксперт;ekspert;Experte
+психолог;psicholog;Psychologe
+пекарь;pekar;Bäcker
+плотник;plotnik;Tischler
+электрик;elektrik;Elektriker
+медсестра;medsestra;Krankenschwester
+водитель;woditel;Fahrer
+машинист;maschinist;Maschinist
+тренер;trener;Trainer
+спортсмен;sportsmen;Sportler
+политик;politik;Politiker
+депутат;deputat;Abgeordneter
+губернатор;gubernator;Gouverneur
+президент;prezident;Präsident
+министр;ministr;Minister
+премьер;premjer;Premierminister
+князь;knias;Fürst
+король;korol;König
+царь;zar;Zar
+император;imperator;Kaiser
+граф;graf;Graf
+барон;baron;Baron
+рыцарь;ryzar;Ritter
+крестьянин;krestjanin;Bauer
+купец;kupez;Händler
+официант;ofizjant;Kellner
+повар;powar;Koch
+уборщик;uborschik;Reinigungskraft
+охранник;ochrannik;Wachmann
+дворник;dwornik;Hausmeister
+почтальон;potschtaljon;Postbote
+парикмахер;parikmacher;Friseur
+модель;model;Model
+ведущий;weduschij;Moderator
+дизайнер;dizajner;Designer
+режиссёр;reschissor;Regisseur
+продюсер;prodjuser;Produzent
+меч;metch;Schwert
+кольцо;kolzo;Ring
+лодка;lodka;Boot
+берег;berjek;Ufer
+туман;tuman;Nebel
+звезда;zvezda;Stern
+снег;sneg;Schnee
+весна;wesna;Frühling
+осень;osen;Herbst
+зима;zima;Winter
+лето;ljeto;Sommer
+утка;utka;Ente
+ласточка;lastotschka;Schwalbe
+горшок;gorjok;Topf
+жизнь;zhizn;Leben
+сердце;serdze;Herz
+кожа;koscha;Haut
+пальма;palma;Palme
+песок;pesok;Sand
+листва;listwa;Blätter
+книга;kniga;Buch
+фонтан;fontan;Brunnen
+цветок;zvetok;Blume
+запах;zapach;Duft
+холм;chom;Hügel
+луна;luna;Mond
+свеча;svetscha;Kerze
+душа;duscha;Seele
+чудо;tschudo;Wunder
+звук;zvuk;Ton
+фонарь;fonar;Laterne
+карандаш;karandasch;Bleistift
+окно;okno;Fenster
+песнь;pesn;Lied
+сон;son;Schlaf
+шар;shar;Kugel
+нож;nosch;Messer
+тарелка;tarelka;Teller
+флажок;flazhok;Flagge
+цифра;zifra;Zahl
+слово;slowo;Wort
+перо;pero;Feder
+жара;zhara;Hitze
+тень;ten;Schatten
+зонт;zont;Regenschirm
+папка;papka;Mappe
+ворота;worota;Tor
+лампа;lampa;Lampe
+песок;pesok;Sand
+якорь;jakor;Anker
+моряк;moryak;Seemann
+волна;wolna;Welle
+остров;ostrow;Insel
+капля;kaplya;Tropfen
+костёр;kostjor;Lagerfeuer
+грибы;griby;Pilze
+куст;kust;Strauch
+ветка;wetka;Zweig
+листва;listwa;Laub
+вода;woda;Wasser
+мост;most;Brücke
+колесо;koleso;Rad
+крюк;kryuk;Haken
+скала;skala;Klippe
+щель;shchel;Spalte
+буря;burya;Sturm
+пещера;peschera;Höhle
+ключ;klyuch;Schlüssel
+замок;zamok;Schloss
+тропа;troopa;Pfad
+ручеёк;rucheok;Bach
+огонь;ogon;Feuer
+дым;dym;Rauch
+верёвка;weryowka;Seil
+сеть;set;Netz
+лодка;lodka;Boot
+палатка;palatka;Zelt
+плот;plot;Floß
+лук;luk;Bogen
+стрела;strela;Pfeil
+рыбалка;rybalka;Angeln
+хлеб;chleb;Brot
+конь;kony;Pferd
+олень;oleny;Hirsch
+заяц;zayaz;Hase
+собака;sobaka;Hund
+волк;wolk;Wolf
+лисья;lisya;Fuchs
+медведь;medwjed;Bär
+тигр;tjeger;Tiger
+лев;ljew;Löwe
+пантера;pantjera;Panther
+зебра;sjebra;Zebra
+жираф;zhiraf;Giraffe
+слон;slon;Elefant
+обезьяна;objezjana;Affe
+кенгуру;kenguru;Känguru
+кабан;kaban;Wildschwein
+ёж;josch;Igel
+кролик;krolik;Kaninchen
+белка;bjælka;Eichhörnchen
+рысь;rysj;Luchs
+лиса;ljisa;Fuchs
+куница;kunjiza;Marder
+выдра;wjdra;Otter
+барсук;barsuk;Dachs
+заяц;zajats;Hase
+волк;wolk;Wolf
+сова;sowa;Eule
+воробей;worobjej;Spatz
+орёл;orjol;Adler
+сокол;sokol;Falke
+утка;utka;Ente
+гусь;gusj;Gans
+журавль;zhurawlj;Kranich
+ворона;worona;Krähe
+курица;kurjiza;Huhn
+петух;pjetukh;Hahn
+индюк;indjuk;Truthahn
+чёрт;tschjort;Teufel
+бог;boh;Gott
+ангел;angel;Engel
+король;korolj;König
+королева;koroljewa;Königin
+принц;prinz;Prinz
+принцесса;prinzzessa;Prinzessin
+рыцарь;ryzarj;Ritter
+герцог;gjerzog;Herzog
+маркиз;markjiz;Markgraf
+барон;baron;Baron
+слуга;sluga;Diener
+шут;schut;Narr
+жена;zhena;Ehefrau
+муж;musch;Ehemann
+ребёнок;rjebjonok;Kind
+мальчик;maltschik;Junge
+девочка;djejwochka;Mädchen
+бабушка;babuschka;Großmutter
+дедушка;deduschka;Großvater
+родители;rodjitelji;Eltern
+брат;brat;Bruder
+сестра;sjestra;Schwester
+дядя;djädja;Onkel
+тётя;tjotja;Tante
+племянник;pljemjannik;Neffe
+племянница;pljemjanniza;Nichte
+кузен;kusjen;Cousin
+кузина;kuzina;Cousine
+врач;wrach;Arzt
+учитель;utschitelj;Lehrer
+адвокат;adwokat;Anwalt
+инженер;inschenjjer;Ingenieur
+пекарь;pjekarj;Bäcker
+повар;powar;Koch
+парикмахер;parikmacher;Friseur
+механик;mechannik;Mechaniker
+программист;programmist;Programmierer
+журналист;zhurnalist;Journalist
+писатель;pisatelj;Schriftsteller
+поэт;poet;Dichter
+художник;khudozhnik;Maler
+актер;akter;Schauspieler
+музыкант;muzykand;Musiker
+певец;pewjez;Sänger
+танцор;tanzor;Tänzer
+спортсмен;sportsmen;Sportler
+архитектор;architektorr;Architekt
+строитель;strojitelj;Bauarbeiter
+фермер;fermer;Landwirt
+водитель;wodjitelj;Fahrer
+пилот;pilot;Pilot
+моряк;morjak;Seemann
+капитан;kapitan;Kapitän
+офицер;ofizer;Offizier
+солдат;soldat;Soldat
+учёный;utschjony;Wissenschaftler
+астроном;astronom;Astronom
+биолог;biolog;Biologe
+химик;khimik;Chemiker
+математик;matjematikh;Mathematiker
+физик;fizikh;Physiker
+историк;istorik;Historiker
+географ;geograf;Geograph
+экономист;ekonomist;Ökonom
+политолог;politolog;Politologe
+социолог;sotsiolog;Soziologe
+психолог;psikholog;Psychologe
+философ;filosof;Philosoph
+теолог;teolog;Theologe
+антрополог;antropolog;Anthropologe
+лингвист;lingwist;Linguist
+переводчик;perewodtschik;Übersetzer
+фотограф;fotograf;Fotograf
+режиссёр;reschissjor;Regisseur
+продюсер;prodjuser;Produzent
+дизайнер;dizajner;Designer
+модель;modelj;Model
+стилист;stilist;Stylist
+администратор;administratorr;Administrator
+менеджер;menedscher;Manager
+директор;direktor;Direktor
+секретарь;sekretarj;Sekretär
+бухгалтер;buchgalter;Buchhalter
+кадровик;kadrowik;Personaler
+юрист;jurist;Jurist
+судья;sudoja;Richter
+прокурор;prokurorr;Staatsanwalt
+следователь;sledowatelj;Ermittler
+медведь;medwjed;Bär
+тигр;tjeger;Tiger
+лев;ljew;Löwe
+пантера;pantjera;Panther
+зебра;sjebra;Zebra
+жираф;zhiraf;Giraffe
+слон;slon;Elefant
+обезьяна;objezjana;Affe
+кенгуру;kenguru;Känguru
+кабан;kaban;Wildschwein
+ёж;josch;Igel
+кролик;krolik;Kaninchen
+белка;bjælka;Eichhörnchen
+рысь;rysj;Luchs
+лиса;ljisa;Fuchs
+куница;kunjiza;Marder
+выдра;wjdra;Otter
+барсук;barsuk;Dachs
+заяц;zajats;Hase
+волк;wolk;Wolf
+сова;sowa;Eule
+воробей;worobjej;Spatz
+орёл;orjol;Adler
+сокол;sokol;Falke
+утка;utka;Ente
+гусь;gusj;Gans
+журавль;zhurawlj;Kranich
+ворона;worona;Krähe
+курица;kurjiza;Huhn
+петух;pjetukh;Hahn
+индюк;indjuk;Truthahn
+чёрт;tschjort;Teufel
+бог;boh;Gott
+ангел;angel;Engel
+король;korolj;König
+королева;koroljewa;Königin
+принц;prinz;Prinz
+принцесса;prinzzessa;Prinzessin
+рыцарь;ryzarj;Ritter
+герцог;gjerzog;Herzog
+маркиз;markjiz;Markgraf
+барон;baron;Baron
+слуга;sluga;Diener
+шут;schut;Narr
+жена;zhena;Ehefrau
+муж;musch;Ehemann
+ребёнок;rjebjonok;Kind
+мальчик;maltschik;Junge
+девочка;djejwochka;Mädchen
+бабушка;babuschka;Großmutter
+дедушка;deduschka;Großvater
+родители;rodjitelji;Eltern
+брат;brat;Bruder
+сестра;sjestra;Schwester
+дядя;djädja;Onkel
+тётя;tjotja;Tante
+племянник;pljemjannik;Neffe
+племянница;pljemjanniza;Nichte
+кузен;kusjen;Cousin
+кузина;kuzina;Cousine
+врач;wrach;Arzt
+учитель;utschitelj;Lehrer
+адвокат;adwokat;Anwalt
+инженер;inschenjjer;Ingenieur
+пекарь;pjekarj;Bäcker
+повар;powar;Koch
+парикмахер;parikmacher;Friseur
+механик;mechannik;Mechaniker
+программист;programmist;Programmierer
+журналист;zhurnalist;Journalist
+писатель;pisatelj;Schriftsteller
+поэт;poet;Dichter
+художник;khudozhnik;Maler
+актер;akter;Schauspieler
+музыкант;muzykand;Musiker
+певец;pewjez;Sänger
+танцор;tanzor;Tänzer
+спортсмен;sportsmen;Sportler
+архитектор;architektorr;Architekt
+строитель;strojitelj;Bauarbeiter
+фермер;fermer;Landwirt
+водитель;wodjitelj;Fahrer
+пилот;pilot;Pilot
+моряк;morjak;Seemann
+капитан;kapitan;Kapitän
+офицер;ofizer;Offizier
+солдат;soldat;Soldat
+учёный;utschjony;Wissenschaftler
+астроном;astronom;Astronom
+биолог;biolog;Biologe
+химик;khimik;Chemiker
+математик;matjematikh;Mathematiker
+физик;fizikh;Physiker
+историк;istorik;Historiker
+географ;geograf;Geograph
+экономист;ekonomist;Ökonom
+политолог;politolog;Politologe
+социолог;sotsiolog;Soziologe
+психолог;psikholog;Psychologe
+философ;filosof;Philosoph
+теолог;teolog;Theologe
+антрополог;antropolog;Anthropologe
+лингвист;lingwist;Linguist
+переводчик;perewodtschik;Übersetzer
+фотограф;fotograf;Fotograf
+режиссёр;reschissjor;Regisseur
+продюсер;prodjuser;Produzent
+дизайнер;dizajner;Designer
+модель;modelj;Model
+стилист;stilist;Stylist
+администратор;administratorr;Administrator
+менеджер;menedscher;Manager
+директор;direktor;Direktor
+секретарь;sekretarj;Sekretär
+бухгалтер;buchgalter;Buchhalter
+кадровик;kadrowik;Personaler
+юрист;jurist;Jurist
+судья;sudoja;Richter
+прокурор;prokurorr;Staatsanwalt
+следователь;sledowatelj;Ermittler
+автобус;awtobus;Bus
+самолет;samoljot;Flugzeug
+корабль;korablj;Schiff
+поезд;pojest;Zug
+машина;maschina;Auto
+велосипед;welosiped;Fahrrad
+дорога;doroga;Straße
+мост;most;Brücke
+парк;park;Park
+улица;uliza;Straße
+город;gorod;Stadt
+деревня;derewnja;Dorf
+дом;dom;Haus
+квартира;kwartira;Wohnung
+комната;komnata;Zimmer
+стена;stjena;Wand
+окно;okno;Fenster
+дверь;dwerj;Tür
+потолок;potolok;Decke
+пол;pol;Boden
+мебель;mebelj;Möbel
+стул;stul;Stuhl
+стол;stol;Tisch
+кровать;krowat;Bett
+шкаф;schkaf;Schrank
+диван;diwan;Sofa
+зеркало;zerkalo;Spiegel
+лампа;lampa;Lampe
+ковёр;kowjor;Teppich
+телевизор;telewisor;Fernseher
+компьютер;kompjuter;Computer
+холодильник;cholodiljnik;Kühlschrank
+микроволновка;mikrowolnowka;Mikrowelle
+плита;plita;Herd
+стиральная машина;stiraljnaja maschina;Waschmaschine
+посуда;posuda;Geschirr
+тарелка;tarjelka;Teller
+чашка;tschashka;Tasse
+ложка;lozhka;Löffel
+вилка;wilka;Gabel
+нож;nosch;Messer
+кастрюля;kastrjulja;Kochtopf
+чайник;tschajnik;Teekessel
+кружка;kruzhka;Becher
+ножницы;noschnizy;Schere
+клей;klej;Kleber
+бумага;bumaga;Papier
+тетрадь;tetrad;Heft
+ручка;rutschka;Stift
+карандаш;karandash;Bleistift
+линейка;linejka;Lineal
+папка;papka;Mappe
+учебник;utschjebnik;Lehrbuch
+книга;kniga;Buch
+газета;gazjeta;Zeitung
+журнал;zhurnal;Zeitschrift
+ноутбук;noutbuk;Laptop
+телефон;telefon;Telefon
+часы;tschasy;Uhr
+будильник;budiljnik;Wecker
+радио;radio;Radio
+фотоаппарат;fotoapparat;Kamera
+зарядка;zarjadka;Ladegerät
+пульт;puljt;Fernbedienung
+сумка;sumka;Tasche
+рюкзак;rjukzak;Rucksack
+чемодан;tschemodan;Koffer
+зонт;zont;Regenschirm
+куртка;kurtka;Jacke
+пальто;paljto;Mantel
+шапка;schapka;Mütze
+перчатки;pertschjatki;Handschuhe
+ботинки;botinki;Stiefel
+кроссовки;krossowki;Turnschuhe
+одежда;odeshda;Kleidung
+рубашка;rubashka;Hemd
+футболка;futbolka;T-Shirt
+свитер;switer;Pullover
+платье;platje;Kleid
+юбка;jubka;Rock
+джинсы;dzhinsy;Jeans
+штаны;shtany;Hose
+пояс;pojas;Gürtel
+носки;noski;Socken
+бельё;beljo;Unterwäsche
+пижама;pizhama;Pyjama
+очки;otschki;Brille
+солнцезащитные очки;solnzezashitnye otschki;Sonnenbrille
+косметика;kosmetika;Kosmetik
+зубная щётка;zubnaja schjotka;Zahnbürste
+зубная паста;zubnaja pasta;Zahnpasta
+мыло;mylo;Seife
+шампунь;schampun;Shampoo
+полотенце;polotenze;Handtuch
+расчёска;raschjoska;Kamm
+фен;fen;Fön
+зеркальце;zerkaljtse;Taschenspiegel
+гребень;grebenj;Kamm
+стоматолог;stomatolog;Zahnarzt
+врач;wrach;Arzt
+медсестра;medsestra;Krankenschwester
+больница;boljniza;Krankenhaus
+аптека;apteka;Apotheke
+таблетки;tabletki;Tabletten
+лекарство;lekartswo;Medikament
+градусник;gradusnik;Thermometer
+бинт;bint;Verband
+пластырь;plastyjr;Pflaster
+кровь;krowj;Blut
+раны;rany;Wunden
+сердце;serdze;Herz
+голова;golowa;Kopf
+рука;ruka;Hand
+нога;noga;Bein
+плечо;pletscho;Schulter
+живот;zhiwot;Bauch
+грудь;grudj;Brust
+спина;spina;Rücken
+пальцы;paljzy;Finger
+глаза;glaza;Augen
+уши;uschi;Ohren
+нос;nos;Nase
+рот;rot;Mund
+яблоко;jabloko;Apfel
+апельсин;apeljsin;Orange
+банан;banan;Banane
+виноград;winograd;Traube
+персик;persik;Pfirsich
+ананас;ananas;Ananas
+груша;gruscha;Birne
+киви;kiwi;Kiwi
+лимон;limon;Zitrone
+манго;mango;Mango
+арбуз;arbus;Wassermelone
+дыня;dynja;Melone
+клубника;klubnika;Erdbeere
+малина;malina;Himbeere
+черника;tschernika;Blaubeere
+смородина;smorodina;Johannisbeere
+вишня;wischnja;Kirsche
+клюква;kljukwa;Preiselbeere
+хурма;churma;Kaki
+гранат;granat;Granatapfel
+шоколад;schokolad;Schokolade
+печенье;petschenje;Keks
+торт;tort;Torte
+пирог;pirog;Kuchen
+хлеб;chleb;Brot
+батон;baton;Weißbrot
+булочка;bulotschka;Brötchen
+масло;maslo;Butter
+сыр;syr;Käse
+молоко;moloko;Milch
+йогурт;jogurt;Joghurt
+сметана;smetana;Sauerrahm
+сливки;slifki;Sahne
+мороженое;moroschjenoje;Eis
+яйцо;jajzo;Ei
+мясо;mjasa;Fleisch
+рыба;ryba;Fisch
+курица;kuriza;Hähnchen
+гусь;gusj;Gans
+утка;utka;Ente
+колбаса;kolbasa;Wurst
+сосиска;sosiska;Wiener
+котлета;kotljeta;Frikadelle
+бифштекс;bifschteks;Beefsteak
+шашлык;schaschl'ik;Schaschlik
+борщ;borschtsch;Rote-Bete-Suppe
+суп;sup;Suppe
+щи;schtschi;Kohlsuppe
+окрошка;okroschka;Kalte Suppe
+плов;plow;Pilaw
+гарнир;garnir;Beilage
+каша;kasha;Brei
+рис;ris;Reis
+макароны;makarony;Nudeln
+спагетти;spagetti;Spaghetti
+овощи;owoschi;Gemüse
+картофель;kartofel;Kartoffel
+морковь;morkowj;Karotte
+свёкла;swjokla;Rote Bete
+капуста;kapusta;Kohl
+лук;luk;Zwiebel
+чеснок;tschesnok;Knoblauch
+огурец;oguretz;Gurke
+помидор;pomidor;Tomate
+перец;peretz;Paprika
+кабачок;kabatschok;Zucchini
+баклажан;baklazhan;Aubergine
+гриб;grib;Pilz
+зелень;seljen;Kräuter
+салат;salat;Salat
+фрукты;frukty;Obst
+ягода;jagoda;Beere
+орех;orekh;Nuss
+грецкий орех;grjezkij orekh;Walnuss
+миндаль;mindalj;Mandel
+фисташка;fistaschka;Pistazie
+арахис;arakhis;Erdnuss
+семечки;semechki;Sonnenblumenkerne
+мёд;mjod;Honig
+сахар;sakhar;Zucker
+соль;solj;Salz
+перец;peretz;Pfeffer
+специи;spjezii;Gewürze
+уксус;uksus;Essig
+масло оливковое;maslo oliwkowoje;Olivenöl
+подсолнечное масло;podsolnetschnoje maslo;Sonnenblumenöl
+вода;woda;Wasser
+чай;tschaj;Tee
+кофе;kofje;Kaffee
+сок;sok;Saft
+компот;kompot;Fruchtgetränk
+кисель;kiselj;Fruchtgelee
+газировка;gazirowka;Limonade
+пиво;piwo;Bier
+вино;wino;Wein
+водка;wodka;Wodka
+шампанское;schampanskoje;Champagner
+стакан;stakan;Glas
+чашка;tschashka;Tasse
+тарелка;tarjelka;Teller
+ложка;lozhka;Löffel
+вилка;wilka;Gabel
+нож;nosch;Messer
+бутылка;butylka;Flasche
+банка;banka;Dose
+сковорода;skoworoda;Pfanne
+кастрюля;kastrjulja;Topf
+автор;awtor;der Autor
+бегемот;bjegјemot;das Nilpferd
+берёза;berjosa;die Birke
+билет;biljet;die Karte
+вертолёт;wjertoljot;der Hubschrauber
+весна;wjesna;der Frühling
+ветер;wjeter;der Wind
+вечер;wjetschjer;der Abend
+волна;wolna;die Welle
+время;wrjemja;die Zeit
+входи;wchodi;der Eingang
+выбор;wybor;die Wahl
+герой;geroi;der Held
+голова;golowa;der Kopf
+город;gorod;die Stadt
+гость;gost;der Gast
+дверь;dwjer;die Tür
+день;djen;der Tag
+деревня;djerjewnja;das Dorf
+дерево;djerewo;der Baum
+дети;djeti;die Kinder
+дождь;doschd;der Regen
+дом;dom;das Haus
+дорога;doroga;der Weg
+друг;drug;der Freund
+душа;duscha;die Seele
+еда;jeda;das Essen
+ёжик;joschik;der Igel
+ёлка;jolka;der Tannenbaum
+жизнь;schisn;das Leben
+забота;sabota;die Sorge
+завод;sawod;das Werk
+закон;sakon;das Gesetz
+замок;samok;das Schloss
+звезда;swjesda;der Stern
+земля;sjemlja;die Erde
+зима;sima;der Winter
+знамя;snamja;die Fahne
+золото;soloto;das Gold
+игра;igra;das Spiel
+июль;ijul;der Juli
+июнь;ijun;der Juni
+кабинет;kabinjet;das Büro
+карта;karta;die Karte
+класс;klass;die Klasse
+книга;kniga;das Buch
+кожа;koscha;die Haut
+комната;komnata;das Zimmer
+конец;konjez;das Ende
+кошка;koschka;die Katze
+крыша;kryscha;das Dach
+культура;kultura;die Kultur
+лампа;lampa;die Lampe
+лес;ljes;der Wald
+лето;ljeto;der Sommer
+лицо;lizo;das Gesicht
+любовь;ljubow;die Liebe
+люди;ljudi;die Menschen
+магазин;magasin;das Geschäft
+май;mai;der Mai
+мама;mama;die Mutter
+март;mart;der März
+масло;maslo;die Butter
+мать;mat;die Mutter
+машина;maschina;das Auto
+место;mjesto;der Platz
+метро;mjetro;die U-Bahn
+мечта;metschta;der Traum
+мир;mir;die Welt
+море;morje;das Meer
+мост;most;die Brücke
+музей;musej;das Museum
+мысль;mysl;der Gedanke
+мяч;mjatsch;der Ball
+небо;njebo;der Himmel
+неделя;nedjelja;die Woche
+нога;noga;das Bein
+ночь;notsch;die Nacht
+нож;nosch;das Messer
+номер;nomjer;die Nummer
+нос;nos;die Nase
+область;oblast;das Gebiet
+обувь;obuw;die Schuhe
+объект;objekt;das Objekt
+овощ;owoschtsch;das Gemüse
+огонь;ogon;das Feuer
+озеро;osjero;der See
+окно;okno;das Fenster
+октябрь;oktjabr;der Oktober
+опыт;opyt;die Erfahrung
+осень;osjen;der Herbst
+отец;otjez;der Vater
+очки;otschki;die Brille
+палец;paljez;der Finger
+папа;papa;der Vater
+парк;park;der Park
+песня;pjesnja;das Lied
+печь;pjetsch;der Ofen
+пироги;pirogi;die Piroggen
+письмо;pismo;der Brief
+пища;pistscha;die Nahrung
+платье;platje;das Kleid
+поезд;pojezd;der Zug
+поле;polje;das Feld
+посуда;posuda;das Geschirr
+почта;potschta;die Post
+правда;prawda;die Wahrheit
+праздник;prasdnik;der Feiertag
+птица;ptiza;der Vogel
+пушка;puschka;die Kanone
+работа;rabota;die Arbeit
+радость;radost;die Freude
+река;rjeka;der Fluss
+ресторан;rjestoran;das Restaurant
+речь;rjetsch;die Rede
+рис;ris;der Reis
+рот;rot;der Mund
+рука;ruka;die Hand
+рыба;ryba;der Fisch
+сад;sad;der Garten
+салат;salat;der Salat
+сахар;sachar;der Zucker
+свет;swjet;das Licht
+сердце;sjerdze;das Herz
+сестра;sjestra;die Schwester
+сказка;skaska;das Märchen
+слово;slowo;das Wort
+снег;snjeg;der Schnee
+собака;sobaka;der Hund
+солнце;solnze;die Sonne
+соль;sol;das Salz
+сон;son;der Traum
+спина;spina;der Rücken
+спорт;sport;der Sport
+страна;strana;das Land
+стул;stul;der Stuhl
+суп;sup;die Suppe
+счастье;stschastje;das Glück
+сын;syn;der Sohn
+сыр;syr;der Käse
+тарелка;tarjelka;der Teller
+театр;tjeatr;das Theater
+тело;tjelo;der Körper
+тема;tjema;das Thema
+тетрадь;tjetrad;das Heft
+тигр;tigr;der Tiger
+тишина;tischina;die Stille
+товар;towar;die Ware
+трава;trawa;das Gras
+труд;trud;die Arbeit
+тётя;tjotja;die Tante
+уголь;ugol;die Kohle
+ужин;uschin;das Abendessen
+улица;uliza;die Straße
+ум;um;der Verstand
+урок;urok;die Stunde
+утка;utka;die Ente
+утро;utro;der Morgen
+ухо;ucho;das Ohr
+учёба;utschoba;das Studium
+учитель;utschitjel;der Lehrer
+фильм;film;der Film
+фрукт;frukt;die Frucht
+хлеб;chljeb;das Brot
+цвет;zwjet;die Farbe
+цена;zena;der Preis
+центр;zentr;das Zentrum
+церковь;zjerkow;die Kirche
+чай;tschai;der Tee
+час;tschas;die Stunde
+часы;tschasy;die Uhr
+человек;tschelowjek;der Mensch
+чудо;tschudo;das Wunder
+шапка;schapka;die Mütze
+шкаф;schkaf;der Schrank
+школа;schkola;die Schule
+щека;schtscheka;die Wange
+этаж;etasch;die Etage
+юбка;jubka;der Rock
+яблоко;jabloko;der Apfel
+язык;jasyk;die Sprache
+яйцо;jaizo;das Ei
+лодка;lodka;das Boot
+война;wojna;der Krieg
+метро;mjetro;die U-Bahn
+квартира;kwartira;die Wohnung
+иней;injej;der Reif
+муха;mucha;die Fliege
+кровь;krow;das Blut
+кольцо;kolzo;der Ring
+заря;sarja;die Morgenröte
+музыка;musyka;die Musik
+губа;guba;die Lippe
+конь;kon;das Pferd
+дядя;djadja;der Onkel
+коробка;korobka;die Schachtel
+мороз;moros;der Frost
+комар;komar;die Mücke
+карта;karta;die Karte
+капуста;kapusta;der Kohl
+минута;minuta;die Minute
+деньги;djengi;das Geld
+крик;krik;der Schrei
+луна;luna;der Mond
+мышь;mysch;die Maus
+дерево;djerewo;der Baum
+армия;armija;die Armee
+весна;wjesna;der Frühling
+мята;mjata;die Minze
+долг;dolg;die Schuld
+водка;wodka;der Wodka
+куртка;kurtka;die Jacke
+барабан;baraban;die Trommel
+луг;lug;die Wiese
+змея;smjeja;die Schlange
+глаз;glas;das Auge
+арбуз;arbus;die Wassermelone
+встреча;wstrjetscha;das Treffen
+блин;blin;der Pfannkuchen
+кабан;kaban;der Eber
+журнал;schurnal;die Zeitschrift
+бандит;bandit;der Bandit
+мясо;mjaso;das Fleisch
+котёл;kotjol;der Kessel
+муж;musch;der Ehemann
+знак;snak;das Zeichen
+курица;kuriza;das Huhn
+крыса;krysa;die Ratte
+клуб;klub;der Club
+дружба;druschba;die Freundschaft
+дама;dama;die Dame
+бутылка;butylka;die Flasche
+море;morje;das Meer
+дождь;doschd;der Regen
+мысль;mysl;der Gedanke
+вечеринка;wjetscherinka;die Party
+доктор;doktor;der Arzt
+запад;sapad;der Westen
+зеркало;sjerkalo;der Spiegel
+игла;igla;die Nadel
+история;istorija;die Geschichte
+дача;datscha;das Landhaus
+гость;gost;der Gast
+мотор;motor;der Motor
+зарплата;sarplata;das Gehalt
+жизнь;schisn;das Leben
+лев;ljew;der Löwe
+король;korol;der König
+имя;imja;der Name
+газета;gasjeta;die Zeitung
+мир;mir;der Frieden
+гвоздь;gwosd;der Nagel
+лестница;ljesniza;die Treppe
+альбом;aljbom;das Album
+дед;djed;der Großvater
+мука;muka;das Mehl
+ковёр;kowjor;der Teppich
+крест;krjest;das Kreuz
+близнец;blisnjez;der Zwilling
+миг;mig;der Augenblick
+ведро;wjedro;der Eimer
+девушка;djewuschka;das Mädchen
+забор;sabor;der Zaun
+дочь;dotsch;die Tochter
+крыло;krylo;der Flügel
+магазин;magasin;das Geschäft
+икра;ikra;der Kaviar
+диван;diwan;das Sofa
+лес;ljes;der Wald
+масло;maslo;die Butter
+баклажан;baklaschan;die Aubergine
+завтрак;sawtrak;das Frühstück
+декабрь;djekabr;der Dezember
+корень;korjen;die Wurzel
+волк;wolk;der Wolf
+горох;goroch;die Erbse
+ботинок;botinok;der Stiefel
+архив;archiw;das Archiv
+меч;mjetsch;das Schwert
+лицо;lizo;das Gesicht
+игрушка;igruschka;das Spielzeug
+мастер;mastjer;der Meister
+ананас;ananas;die Ananas
+звонок;swonok;die Klingel
+выставка;wystawka;die Ausstellung
+метель;mjetjel;der Schneesturm
+группа;gruppa;die Gruppe
+бочка;botschka;das Fass
+лето;ljeto;der Sommer
+молния;molnija;der Blitz
+дом;dom;das Haus
+дуб;dub;die Eiche
+мама;mama;die Mutter
+загадка;sagadka;das Rätsel
+борода;boroda;der Bart
+кузнец;kusnjez;der Schmied
+богатырь;bogatyr;der Held
+гитара;gitara;die Gitarre
+внук;wnuk;der Enkel
+малыш;malysch;das Baby
+груша;gruscha;die Birne
+лёд;ljod;das Eis
+кошка;koschka;die Katze
+бассейн;bassejn;das Schwimmbad
+ворона;worona;die Krähe
+корабль;korabl;das Schiff
+вилка;wilka;die Gabel
+крепость;krjepost;die Festung
+люди;ljudi;die Menschen
+мощь;moschtsch;die Macht
+закат;sakat;der Sonnenuntergang
+лампа;lampa;die Lampe
+гриб;grib;der Pilz
+живот;schiwot;der Bauch
+молоко;moloko;die Milch
+беда;bjeda;das Unglück
+лист;list;das Blatt
+воздух;wosduch;die Luft
+мелочь;mjelotsch;die Kleinigkeit
+зуб;sub;der Zahn
+вишня;wischnja;die Kirsche
+дума;duma;der Gedanke
+запах;sapach;der Geruch
+заказ;sakas;die Bestellung
+ложка;loschka;der Löffel
+карман;karman;die Tasche
+восток;wostok;der Osten
+корова;korowa;die Kuh
+дверь;dwjer;die Tür
+любовь;ljubow;die Liebe
+майка;majka;das Unterhemd
+зонт;sont;der Regenschirm
+башня;baschnja;der Turm
+здание;sdanije;das Gebäude
+книга;kniga;das Buch
+горло;gorlo;die Kehle
+каша;kascha;der Brei
+место;mjesto;der Platz
+балкон;balkon;der Balkon
+лавка;lawka;die Bank
+институт;institut;das Institut
+дыня;dynja;die Melone
+мебель;mjebel;die Möbel
+время;wrjemja;die Zeit
+бумага;bumaga;das Papier
+жених;schenich;der Bräutigam
+лоб;lob;die Stirn
+кисть;kist;der Pinsel
+коза;kosa;die Ziege
+брюки;brjuki;die Hose
+галстук;galstuk;die Krawatte
+морковь;morkow;die Möhre
+банан;banan;die Banane
+мать;mat;die Mutter
+медведь;mjedwjed;der Bär
+клён;kljon;der Ahorn
+кукла;kukla;die Puppe
+ключ;kljutsch;der Schlüssel
+воля;wolja;der Wille
+аптека;aptjeka;die Apotheke
+лимон;limon;die Zitrone
+актёр;aktjor;der Schauspieler
+мост;most;die Brücke
+абрикос;abrikos;die Aprikose
+изба;isba;die Bauernhütte
+крыша;kryscha;das Dach
+врач;wratsch;der Arzt
+кожа;koscha;die Haut
+замок;samok;das Schloss
+мечта;mjetschta;der Traum
+ветка;wjetka;der Zweig
+ладонь;ladon;die Handfläche
+день;djen;der Tag
+камень;kamjen;der Stein
+зима;sima;der Winter
+берлога;bjerloga;die Bärenhöhle
+бизнес;bisnes;das Geschäft
+адвокат;adwokat;der Anwalt
