@@ -8,7 +8,7 @@ import random
 
 gi.require_version('Gtk', '3.0')
 import time
-from gi.repository import Gtk, Pango, GLib
+from gi.repository import Gtk, Pango, GLib, Gdk
 
 import subprocess
 
@@ -97,6 +97,17 @@ class FlashcardWindow(Gtk.Window):
 
         # Connect click event
         self.connect("button-press-event", self.on_click)
+        
+        # Connect key press event
+        self.connect("key-press-event", self.on_key_press)
+
+    def on_key_press(self, widget, event):
+        # Check if F2 was pressed
+        if event.keyval == Gdk.KEY_F2:
+            self.show_search_dialog(None)
+            return True
+        return False
+
 
     def create_menu(self):
         menubar = Gtk.MenuBar()
@@ -128,7 +139,7 @@ class FlashcardWindow(Gtk.Window):
         search_item.set_submenu(search_menu)
 
         # Suchen Submenu
-        word_item = Gtk.MenuItem(label="Übersetzung")
+        word_item = Gtk.MenuItem(label="Übersetzung F2")
         word_item.connect("activate", self.show_search_dialog)
         search_menu.append(word_item)
 
