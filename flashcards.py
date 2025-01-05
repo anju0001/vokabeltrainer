@@ -247,8 +247,8 @@ class FlashcardWindow(Gtk.Window):
 
         # Search in both words and translations
         for index, word in enumerate(self.words):
-            if (search_term in word['word'].lower() or
-                search_term in word['translation'].lower()):
+            if (search_term == word['word'].lower() or
+                search_term == word['translation'].lower()):
                 # Found a match, jump to this word
                 self.current_word_index = index
                 self.click_count = 0
